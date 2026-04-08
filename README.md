@@ -40,10 +40,10 @@ The DistilBERT model consistently outperformed the traditional baseline, especia
 
 ## 📂 Repository Contents
 
-- `notebooks/01_training_main.ipynb`  
+- `notebook/MAIN.ipynb`  
   → End-to-end pipeline for preprocessing, TF-IDF training, and DistilBERT fine-tuning  
 
-- `notebooks/02_evaluation_test.ipynb`  
+- `notebook/TEST.ipynb`  
   → Evaluation pipeline with:
   - Confusion matrix  
   - Classification report  
@@ -65,8 +65,6 @@ The DistilBERT model consistently outperformed the traditional baseline, especia
 git clone https://github.com/your-username/interpretable-text-classification.git
 cd interpretable-text-classification
 ```
-### 2️⃣ Install Dependencies
-pip install -r requirements.txt
 
 ### 3️⃣ Run Evaluation
 
