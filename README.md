@@ -66,7 +66,7 @@ git clone https://github.com/your-username/interpretable-text-classification.git
 cd interpretable-text-classification
 ```
 
-### 3️⃣ Run Evaluation
+### 2️⃣ Run Evaluation
 
 Open the notebook And Run all cells to:
 
