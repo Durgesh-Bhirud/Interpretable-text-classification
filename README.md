@@ -61,14 +61,14 @@ The DistilBERT model consistently outperformed the traditional baseline, especia
 ## ⚙️ Getting Started
 
 ### 1️⃣ Clone the Repository
-
+```bash
 git clone https://github.com/your-username/interpretable-text-classification.git
 cd interpretable-text-classification
-
+```
 ### 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
-###3️⃣ Run Evaluation
+### 3️⃣ Run Evaluation
 
 Open the notebook And Run all cells to:
 
